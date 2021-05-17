@@ -1,0 +1,9 @@
+a = int(input("Digite um numero inteiro: "))
+b = int(input("Digite um numero inteiro: "))
+
+X = (a + b)
+
+if X <= 0:
+    print ("x = ", X)
+elif X >= 0:
+    print("x = ", X)
