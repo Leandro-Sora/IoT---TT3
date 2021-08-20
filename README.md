@@ -1,2 +1,2 @@
-# IoT---TT3
-projeto da turma tt3 sobre IoT
+# IoT 
+projeto da turma tt3 sobre IoT (PPT e imagem)
